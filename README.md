@@ -22,27 +22,15 @@ Passionate fullstack developer with a strong foundation in both frontend and bac
 
 ---
 
-## 💼 Experience
+## 🏆 Certificates & Achievements
 
-| Period | Role | Company |
+| Certificate | Issuer | Year |
 |---|---|---|
-| Aug 2024 – Present | Full Stack Developer | Mediaone Software Solutions |
-| Jan – Jun 2025 | Remote Developer (Part-Time) | Backride Pinas |
-| Feb – Jun 2024 | Web Developer Intern | Mediaone Software Solutions |
-| 2019 – 2024 | Freelance Fullstack Developer | Davao City |
-
----
-
-## 🚀 Projects & 🏆 Achievements
-
-| Project | Type |
-|---|---|
-| MedTracker | 📱 Healthcare tracking app |
-| MedTracker Admin | 🌐 Healthcare admin dashboard |
-| Pabile | 📱 Mobile app |
-| Nyugakku Seido | 🌐 Educational platform |
-
-🏅 Cybersecurity (Certiport '24) · 🏅 Support Tech Cybersecurity (Cisco '24) · 🏅 Network Security (Certiport '23) · 🏅 Networking (Certiport '22)
+| 🏆 Cybersecurity | Certiport | 2024 |
+| 💡 Support Technician Cybersecurity | Cisco | 2024 |
+| 🎯 Network Security | Certiport | 2023 |
+| 📜 Networking | Certiport | 2022 |
+| ⚡ Internship Completion | FreeCodeCamp | 2022 |
 
 ---
 
@@ -50,8 +38,11 @@ Passionate fullstack developer with a strong foundation in both frontend and bac
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ichizawa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichizawa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Ace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ichizawa&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ichizawa&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ichizawa&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 </div>
 
@@ -59,6 +50,6 @@ Passionate fullstack developer with a strong foundation in both frontend and bac
 
 <div align="center">
 
-*© 2026 Aecl Batingal · Built with ❤️ from Davao City*
+*© 2026 aeyse · dev*
 
 </div>
